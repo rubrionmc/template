@@ -1,5 +1,7 @@
 dependencies {
     implementation(project(":common"))
+
+    compileOnly(libs.jetanno)
     compileOnly(libs.spigot)
     compileOnly(libs.packeteventsSpigot)
 }
