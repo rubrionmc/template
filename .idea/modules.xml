@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rub-api/rub-template.api.main.iml" filepath="$PROJECT_DIR$/.idea/modules/rub-api/rub-template.api.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rup-bungee/rub-template.bungee.main.iml" filepath="$PROJECT_DIR$/.idea/modules/rup-bungee/rub-template.bungee.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rub-common/rub-template.common.main.iml" filepath="$PROJECT_DIR$/.idea/modules/rub-common/rub-template.common.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rum-spigot/rub-template.spigot.main.iml" filepath="$PROJECT_DIR$/.idea/modules/rum-spigot/rub-template.spigot.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rum-paper/rum-paper.rub-template.paper.main.iml" filepath="$PROJECT_DIR$/.idea/modules/rum-paper/rum-paper.rub-template.paper.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rum-paper/rum-paper.rub-template.paper.test.iml" filepath="$PROJECT_DIR$/.idea/modules/rum-paper/rum-paper.rub-template.paper.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rup-velocity/rup-velocity.rub-template.velocity.main.iml" filepath="$PROJECT_DIR$/.idea/modules/rup-velocity/rup-velocity.rub-template.velocity.main.iml" />
+    </modules>
+  </component>
+</project>
