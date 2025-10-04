@@ -23,6 +23,8 @@ allprojects {
         maven("https://libraries.minecraft.net")
         maven("https://repo.codemc.io/repository/maven-releases/")
         maven("https://repo.codemc.io/repository/maven-snapshots/")
+        maven("https://repo.codemc.io/repository/maven-snapshots/")
+        maven("https://rubrionmc.github.io/repository/")
     }
 }
 

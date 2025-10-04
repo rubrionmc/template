@@ -17,7 +17,7 @@ tasks.processResources {
             "project.authors" to project.property("authors"),
             "project.group" to project.group,
             "project.type" to project.name,
-            "project.name" to "Template"
+            "project.name" to project.property("displayName")
         )
     }
 }
