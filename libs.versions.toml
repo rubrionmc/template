@@ -37,8 +37,8 @@ packeteventsBungee = { group = "com.github.retrooper", name = "packetevents-bung
 ## Spigot
 packeteventsSpigot = { group = "com.github.retrooper", name = "packetevents-spigot", version = "2.9.5"}
 
-## Own
-common = { group = "net.rubrion", name = "common", version = "1.0.1"}
+## Internal
+common = { group = "net.rubrion.common", name = "api", version = "1.0.1"}
 
 [bundles]
 database = ["mysql", "hikaricp"]
