@@ -12,12 +12,11 @@ tasks.processResources {
     filesMatching("**/*.yml") {
         expand(
             "project.version" to project.version,
-            "paper-api.version" to project.property("paperApiVersion"),
-            "project.authors" to project.property("authors"),
-            "project.group" to project.group,
-            "project.type" to project.name,
-            "project.name" to project.property("displayName")
+            "paper-api-version" to rootProject.property("paperApiVersion"),
+            "project-authors" to rootProject.property("authors"),
+            "project-group" to project.group,
+            "project-type" to project.name,
+            "project-name" to rootProject.property("displayName")
         )
     }
 }
-
