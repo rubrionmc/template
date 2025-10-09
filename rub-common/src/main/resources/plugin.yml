@@ -4,3 +4,4 @@ main: ${projectGroup}.${projectType}.${projectName}Plugin
 version: ${projectVersion}
 authors: ${projectAuthors}
 api-version: ${paperApiVersion}
+description: ${projectDescription}
