@@ -10,6 +10,7 @@
  */
 package net.rubrion.template.api;
 
+import net.rubrion.common.api.api.ApiProvider;
 import org.jetbrains.annotations.ApiStatus;
 import org.jetbrains.annotations.NotNull;
 
@@ -20,7 +21,8 @@ import org.jetbrains.annotations.NotNull;
  * without directly depending on the core implementation.
  * </p>
  */
-public class TemplateApiProvider {
+public class TemplateApiProvider implements ApiProvider {
+
     private static TemplateApi instance = null;
 
     private TemplateApiProvider() {

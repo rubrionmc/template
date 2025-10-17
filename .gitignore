@@ -9,6 +9,8 @@ gradlew.bat
 *.iml
 *.iws
 out/
+run/
+test/
 .vscode/
 .classpath
 .project

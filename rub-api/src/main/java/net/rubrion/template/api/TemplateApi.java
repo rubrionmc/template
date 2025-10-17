@@ -10,7 +10,10 @@
  */
 package net.rubrion.template.api;
 
-public interface TemplateApi {
+import net.rubrion.common.api.api.ApiModule;
+
+public interface TemplateApi extends ApiModule {
+
     /**
      * Example function exposed by the API.
      * @return a string result
