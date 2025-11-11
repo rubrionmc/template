@@ -4,7 +4,7 @@
  * This Sourcecode is under the RPL-PUBLIC LICENSE. <br>
  * License at: <a href="https://github.com/rubrionmc/.github/blob/main/licensens/RUBRION_PUBLIC">GITHUB</a>
  * <br><br>
- * Copyright (c) LeyCM <a  href="mailto:leycm@proton.me">leycm@proton.me<br>
+ * Copyright (c) LeyCM <a href="mailto:leycm@proton.me">leycm@proton.me</a><br>
  * Copyright (c) maintainers  <br>
  * Copyright (c) contributors
  * <br>
